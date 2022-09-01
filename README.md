@@ -1,1 +1,1 @@
-# ejercicios-c
+# Ejercicios tema 1 y 2
